@@ -1,0 +1,12 @@
+#header-nav
+{
+	height:150px;
+	background-color:#5F2C12;
+}
+.navbar-header #logo-image
+{
+	background: url('image.png') no-repeat;
+	width:150px;
+	height:148px;
+	border:2px solid black;
+}
